@@ -10,6 +10,11 @@ GO My Store is a multi-vendor marketplace where:
 
 The platform supports physical products, digital goods, and services, with a unified product database and credit-based payment system.
 
+## Resources
+
+- [Clickup](https://app.clickup.com/9015365228/v/b/s/90153887936)
+- [Eraser](https://app.eraser.io/workspace/1WcBh4v2AxsLI7UIX2mG)
+
 ## Vendors
 ### Store Management
 
